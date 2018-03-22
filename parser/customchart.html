@@ -1,0 +1,85 @@
+
+         <html class="captcha">
+            <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <title>Security check required</title>
+            <style> li { margin-top:0.5em;margin-bottom:0.5em; }
+               input, textarea { width:100%; max-width:20em; font-size:1.2em; border:1px solid #ddd; color:#666; padding:0.3em;background:#fff;}
+                textarea { height:5em }
+               .recaptcha_frame { display:none; margin-top:0.5em; margin-bottom:0.5em; padding-bottom:0.5em; padding-top:0.5em; border-top:1px solid #ddd; border-bottom:1px solid #ddd; }
+               .btnsubmit { font-size:1.2em; padding:0.3em; background:#383; color:white; padding-left:1em; padding-right:1em; margin-top:0.5em; cursor:pointer }
+               .btnsubmit:hover { background: #494; }
+               .stop_notice_message { color:#866; font-weight:bold; margin:0.5em; margin-bottom:1em; }
+               .body_3 { margin-top:0em; }
+               html.captcha .recaptcha_frame { display:block; }
+               .error { margin-bottom:0.5em; margin-top:0.5em; padding:0.5em; background:#fee; border:1px solid #daa; color:#800 }
+               #content { margin:3%;padding:1.5em;border:1px solid #ccc;border-radius:5px;background:#f8f8f8;box-shadow:1px 1px #eee;}
+               body { font-family:Raleway, Verdana, Arial; background:#eee;padding:3em;color:#555; }
+
+               @media only screen and (max-width:40em) {
+
+                  body { padding:0.2em; background:#fff; font-size:0.9em; }
+                  #content { padding:0em; border:none; background:#fff; box-shadow:none; }
+               }
+            </style>
+            <script>
+               function openFeedback () {
+                  document.getElementById('recaptcha_frame').style.display = 'block';
+                  document.getElementById('clickhere').style.display = 'none';
+               }  
+            </script>
+            <script src='https://www.google.com/recaptcha/api.js'></script>
+            <body style="">
+         
+            <div id="content">
+         
+            <p>We're sorry, but it appears that some requests from your computer might be coming from automated scripts, viruses, or malware, or you might be loading pages too quickly for our servers to keep up. </p><p> In order 
+            to continue, we have to ask that you please follow the instructions below to continue browsing. </p>
+
+            
+
+
+             
+
+            <form id="sec_verify" method="post" action="/_sec_verify_v2">
+
+            <input type="hidden" name="return_url" value="/customchart" />
+
+            
+
+                  <div id="recaptcha_frame" class="recaptcha_frame">
+
+                  <p>Step 1: Confirm you are human</p>
+      
+                  <div class="g-recaptcha" data-sitekey="6LeKVv8SAAAAAMKThIl7xn5jJ3CnB6qtTf_7sqg8"></div>
+
+                  <p>Step 2 (optional): Enter any other comments/feedback here</p>
+
+                  <textarea name="feedback" id="feedback" placeholder=""></textarea>
+
+                  
+                  <p>Step 3: Enter your email address if we might need to contact you regarding the feedback you gave above. (optional) </p>
+                  <input name="email" id="email" placeholder="" />
+            
+
+                  <p></p>
+
+                  <a onClick="document.getElementById('sec_verify').submit();" class="btnsubmit">Submit &gt;</a>
+
+                  <p></p>
+
+               </form>
+               </div>
+            <div class="body_3">
+               <p>If you are seeing this message often, you might want to check your machine for viruses or malware. </p>
+            <p>You can also leave a feedback message above if you are seeing this too often, if you have any information that might help us determine why you're seeing this message,
+             or if you have feedback in general about receiving these messages.</p> 
+            </div>
+
+
+         <br />
+
+         Regards,<br />
+         RYM/Sonemic Staff</div>
+
+         </body></html>

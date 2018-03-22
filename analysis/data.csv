@@ -1,0 +1,801 @@
+,artist,rim_rating,rating,reviews
+1,Radiohead,4.23,41673,2202
+2,Pink Floyd,4.23,35458,1848
+3,The Velvet Underground,4.29,27824,1203
+4,Radiohead,4.19,34019,1304
+5,Pink Floyd,4.27,28795,1130
+6,King Crimson,4.3,24018,990
+7,My Bloody Valentine,4.21,27085,1355
+8,The Beach Boys,4.21,21031,1009
+9,The Beatles,4.29,27004,1357
+10,The Beatles,4.27,26834,1426
+11,Miles Davis,4.27,17944,664
+12,Led Zeppelin,4.17,23644,1089
+13,David Bowie,4.28,23421,865
+14,Black Sabbath,4.21,21545,860
+15,Neutral Milk Hotel,4.09,26229,1318
+16,Pixies,4.16,21392,789
+17,John Coltrane,4.32,14566,522
+18,Godspeed You Black Emperor!,4.15,19352,702
+19,Joy Division,4.13,22914,705
+20,Radiohead,4.05,25365,1031
+21,Nick Drake,4.2,17737,667
+22,Talking Heads,4.22,18736,557
+23,Bob Dylan,4.23,17754,719
+24,The Doors,4.15,19676,725
+25,The Smiths,4.15,20634,729
+26,The Beatles,4.17,27337,1374
+27,Pink Floyd,4.09,21615,780
+28,Arcade Fire,4.03,25119,1064
+29,David Bowie,4.14,17081,595
+30,Television,4.18,16542,649
+31,Nirvana,3.92,27071,1437
+32,Wu-Tang Clan,4.18,15502,651
+33,Nas,4.18,15498,717
+34,Mingus,4.35,10916,409
+35,The Beatles,4.17,22352,1190
+36,Joy Division,4.11,18312,660
+37,King Crimson,4.21,13014,489
+38,The Clash,4.07,19732,909
+39,Radiohead,3.91,28659,1044
+40,Bob Dylan,4.2,15057,600
+41,Kendrick Lamar,4.09,16499,401
+42,The Jimi Hendrix Experience,4.18,15395,630
+43,Sonic Youth,4.08,17942,595
+44,Sigur R&#243;s,4.05,17624,618
+45,Slint,4.11,16886,613
+46,The Cure,4.14,16265,523
+47,Madvillain,4.13,14314,374
+48,Metallica,4.01,20159,1101
+49,Godspeed You Black Emperor!,4.11,14937,414
+50,Kanye West,3.98,19576,810
+51,Kendrick Lamar,4.09,16298,400
+52,Led Zeppelin,4.03,19280,756
+53,DJ Shadow,4.11,15372,469
+54,Bob Dylan,4.2,13031,558
+55,Black Sabbath,4.14,14781,549
+56,The Beatles,4.1,21043,902
+57,Metallica,4.05,17309,819
+58,Miles Davis,4.23,9306,305
+59,Leonard Cohen,4.18,11026,369
+60,Portishead,4.11,17399,476
+61,Black Sabbath,4.1,15552,665
+62,Led Zeppelin,4.01,18622,737
+63,Neil Young,4.15,12836,469
+64,Miles Davis,4.15,11194,401
+65,The Jimi Hendrix Experience,4.17,12499,518
+66,Can,4.11,14053,563
+67,Tom Waits,4.13,13150,420
+68,Bob Dylan,4.18,11638,448
+69,Yes,4.12,12564,555
+70,Slowdive,4.07,13906,384
+71,A Tribe Called Quest,4.09,12357,352
+72,Sufjan Stevens,4.02,16137,524
+73,David Bowie,4.1,17159,609
+74,The Velvet Underground,4.06,15388,576
+75,The Stooges,4.14,11528,531
+76,Love,4.09,12664,602
+77,Pink Floyd,3.98,17106,646
+78,Bj&#246;rk,4.02,15034,369
+79,Frank Zappa,4.08,11542,455
+80,The Rolling Stones,4.09,11331,478
+81,The Who,4.04,13626,701
+82,Radiohead,3.84,23697,689
+83,Nirvana,3.92,19583,707
+84,Pink Floyd,3.94,18385,780
+85,The Zombies,4.12,10232,487
+86,The Velvet Underground,4.12,13949,463
+87,David Bowie,4.08,11696,394
+88,Genius/GZA,4.12,10042,408
+89,Talk Talk,4.07,10335,357
+90,Talk Talk,4.09,9846,337
+91,Can,4.12,9654,283
+92,The Beatles,4.08,17143,652
+93,Marvin Gaye,4.08,10620,424
+94,Pixies,3.99,15516,465
+95,Nick Drake,4.08,11255,357
+96,Aphex Twin,3.99,13406,337
+97,Kate Bush,4.1,10372,353
+98,Elliott Smith,4.07,12221,343
+99,Neil Young,4.14,9043,376
+100,The Rolling Stones,4.06,10925,456
+101,Eno,4.04,10984,367
+102,Slayer,3.99,12551,779
+103,Neil Young,4.05,12083,395
+104,Smashing Pumpkins,3.96,14629,607
+105,Neil Young,4.11,9161,356
+106,Can,4.06,10411,293
+107,Pink Floyd,3.8,23287,991
+108,Van Morrison,4.05,10010,506
+109,The Rolling Stones,4.04,10743,523
+110,Belle and Sebastian,4.0,12340,427
+111,Massive Attack,4.03,14975,404
+112,David Bowie,3.97,13403,345
+113,Jeff Buckley,3.97,14644,698
+114,Megadeth,4.01,11534,647
+115,David Bowie,3.97,12277,370
+116,Depeche Mode,3.99,11812,409
+117,Led Zeppelin,3.91,16482,606
+118,Charles Mingus,4.13,7459,208
+119,Stevie Wonder,4.11,7460,293
+120,Interpol,3.94,16478,614
+121,Wilco,3.93,13941,514
+122,Led Zeppelin,3.99,13162,579
+123,The Smiths,4.14,7304,152
+124,Boards of Canada,3.93,12657,375
+125,The Kinks,4.12,8721,398
+126,Led Zeppelin,3.96,13801,566
+127,Pavement,4.0,11773,392
+128,Genesis,4.03,9548,403
+129,Swans,4.06,7845,200
+130,John Coltrane,4.11,7390,200
+131,Modest Mouse,4.05,10045,294
+132,A Tribe Called Quest,4.09,8199,210
+133,Bob Dylan,4.02,11157,408
+134,Iggy and The Stooges,4.05,10347,454
+135,Leonard Cohen,4.07,7919,214
+136,John Coltrane,4.12,6486,169
+137,Stevie Wonder,4.11,6220,271
+138,Death,4.04,7825,259
+139,Tool,3.93,13546,640
+140,OutKast,4.06,7497,209
+141,Kraftwerk,3.99,9509,261
+142,Talking Heads,4.02,10737,284
+143,Iron Maiden,3.99,10382,416
+144,Creedence Clearwater Revival,4.08,6952,286
+145,Nine Inch Nails,3.95,13211,481
+146,J Dilla,3.99,8744,292
+147,King Crimson,4.02,8949,317
+148,Modest Mouse,3.97,11617,339
+149,The Stone Roses,3.99,11414,576
+150,Sigur R&#243;s,3.92,12249,397
+151,Joni Mitchell,4.02,8655,342
+152,Sufjan Stevens,3.98,10382,250
+153,Jethro Tull,4.03,7796,310
+154,Bruce Springsteen,3.98,9259,428
+155,The Jimi Hendrix Experience,4.02,10131,382
+156,Tool,3.92,12690,591
+157,Kraftwerk,3.99,8659,240
+158,Curtis Mayfield,4.11,5640,191
+159,The Doors,3.97,10983,342
+160,Tom Waits,4.04,8663,218
+161,Prince and The Revolution,4.06,9353,378
+162,Iron Maiden,3.94,11921,547
+163,The Cure,3.98,11135,319
+164,Opeth,3.94,10654,449
+165,Bj&#246;rk,3.97,10651,282
+166,The Flaming Lips,3.9,12849,446
+167,Black Sabbath,4.0,10285,385
+168,The Rolling Stones,4.03,9441,377
+169,Rage Against the Machine,3.89,13574,582
+170,The Microphones,4.0,10058,250
+171,Deep Purple,3.99,8785,397
+172,Nick Drake,3.98,9894,319
+173,John Coltrane,4.05,7179,172
+174,Yes,3.96,10114,389
+175,Steve Reich,4.07,5098,169
+176,Wire,3.98,9932,334
+177,Fleetwood Mac,3.98,10820,475
+178,Kanye West,3.88,13330,374
+179,Joanna Newsom,3.92,9882,474
+180,The Avalanches,3.92,10714,309
+181,Gang of Four,3.98,9079,312
+182,Built to Spill,4.01,7684,190
+183,Danny Brown,3.96,8784,165
+184,Pharoah Sanders,4.09,4590,178
+185,Kyuss,3.98,8788,293
+186,Cocteau Twins,3.98,8440,238
+187,Metallica,3.83,15157,772
+188,R.E.M.,3.95,9803,377
+189,The Smashing Pumpkins,3.87,13221,647
+190,Mobb Deep,4.05,5888,251
+191,Eric Dolphy,4.03,5718,174
+192,Weezer,3.92,15752,614
+193,The Notorious B.I.G.,4.0,7783,312
+194,Dead Kennedys,3.99,9141,334
+195,Queens of the Stone Age,3.9,14147,411
+196,Alice in Chains,3.91,11655,568
+197,Eno,3.97,8165,281
+198,Michael Jackson,3.9,10528,515
+199,Angelo Badalamenti,4.1,5037,112
+200,Ennio Morricone,4.14,3184,103
+201,Radiohead,3.7,21928,727
+202,Pearl Jam,3.82,14477,684
+203,Iron Maiden,3.97,8471,342
+204,Beastie Boys,3.93,8960,319
+205,Public Enemy,3.95,8265,312
+206,Jethro Tull,3.94,9053,343
+207,Funkadelic,3.97,7847,266
+208,Portishead,3.86,10656,459
+209,Curtis Mayfield,4.07,4275,124
+210,The Strokes,3.85,17121,711
+211,The Sonic Youth,3.95,9563,239
+212,Ornette Coleman,4.02,5401,167
+213,Berliner Philharmoniker,4.21,887,43
+214,Van Morrison,4.01,6792,281
+215,Judas Priest,3.99,6739,345
+216,Black Sabbath,3.95,10029,362
+217,Lou Reed,3.96,11607,346
+218,Comus,3.99,6043,273
+219,At the Drive-In,3.9,10478,354
+220,OutKast,4.02,6025,160
+221,Rush,3.91,9359,370
+222,George Harrison,4.06,7056,378
+223,Fishmans,4.05,4977,107
+224,Queen,3.89,10109,484
+225,Genesis,3.98,7144,291
+226,Robert Wyatt,3.96,6480,267
+227,Boards of Canada,3.91,9264,218
+228,Cocteau Twins,3.96,8821,242
+229,Otis Redding,4.05,4461,143
+230,Burzum,3.92,8393,267
+231,Pavement,3.9,11287,379
+232,Charlie Mingus,4.09,3811,130
+233,R.E.M.,3.93,11778,453
+234,The Replacements,3.96,7295,273
+235,Neil Young,4.01,6409,227
+236,Swans,3.88,9202,285
+237,Radiohead,3.82,13089,357
+238,Bj&#246;rk,3.86,12139,269
+239,The Clash,3.92,9774,387
+240,Swans,3.87,9331,335
+241,Deep Purple,3.96,7176,299
+242,The Doors,3.92,10154,367
+243,Wire,3.99,6559,193
+244,Captain Beefheart and His Magic Band,3.95,8261,293
+245,Milton Nascimento,4.07,3270,104
+246,Patti Smith,3.94,8648,286
+247,Animal Collective,3.69,17208,898
+248,Tom Waits,4.01,6383,201
+249,The Flaming Lips,3.82,13322,430
+250,Opeth,3.95,7368,260
+251,Kanye West,3.85,12037,253
+252,Death Grips,3.82,13865,335
+253,Miles Davis,4.05,3972,157
+254,Alice Coltrane featuring Pharoah Sanders,4.06,3579,84
+255,T. Rex,3.96,6740,275
+256,Dinosaur,3.9,9347,253
+257,The Smiths,3.86,11806,345
+258,Nick Cave and The Bad Seeds,3.97,7112,145
+259,Ramones,3.88,9327,480
+260,Staatsorchester Stuttgart,4.03,3663,104
+261,The Dave Brubeck Quartet,3.97,5834,196
+262,Metallica,3.78,14585,718
+263,Electric Wizard,3.93,7816,287
+264,The Kinks,4.04,5146,204
+265,Genesis,3.97,6271,295
+266,Yo La Tengo,3.93,8213,228
+267,Kate Bush,3.98,5936,227
+268,Daft Punk,3.79,12944,345
+269,Elliott Smith,3.94,7961,191
+270,Art Blakey and The Jazz Messengers,4.05,3727,115
+271,Death,3.95,6445,206
+272,Fela Kuti,4.02,3797,92
+273,Converge,3.89,7623,326
+274,Rainbow,3.97,5174,256
+275,This Heat,3.96,5765,172
+276,Berliner Philharmoniker,4.11,524,6
+277,Weezer,3.88,13052,519
+278,Brian Eno,3.95,6247,212
+279,John Lennon,3.98,7602,378
+280,Herbie Hancock,3.94,6613,202
+281,The Mars Volta,3.8,11210,447
+282,Faith No More,3.89,8242,318
+283,"Crosby, Stills, Nash &amp; Young",3.97,5489,222
+284,Prince,4.02,5235,223
+285,Pulp,3.94,7714,258
+286,The Stooges,3.9,9027,308
+287,Simon and Garfunkel,3.97,7401,274
+288,Soundgarden,3.85,9708,369
+289,H&#252;sker D&#252;,3.92,7622,248
+290,The Who,3.94,6734,332
+291,The National,3.85,9979,334
+292,Minutemen,3.93,7104,280
+293,The Jesus and Mary Chain,3.82,10713,339
+294,Soft Machine,3.94,5132,195
+295,Red House Painters,3.92,6089,189
+296,Serge Gainsbourg,3.93,5716,201
+297,Agalloch,3.92,6173,216
+298,Ennio Morricone,4.08,1659,51
+299,Talking Heads,3.91,8468,213
+300,King Crimson,3.91,7366,237
+301,LCD Soundsystem,3.84,10301,284
+302,Wire,3.97,5344,153
+303,Agalloch,3.86,7499,255
+304,Isis,3.9,6472,202
+305,Camel,3.96,5420,186
+306,Slayer,3.91,7027,252
+307,Ramones,3.94,6148,216
+308,John Coltrane,4.04,2882,90
+309,Unwound,3.94,5230,138
+310,Novos Baianos,4.05,2117,55
+311,Sly &amp; The Family Stone,3.95,4954,193
+312,Fela Kuti,4.02,3016,77
+313,Townes Van Zandt,4.0,3326,69
+314,The Kinks,3.98,5462,239
+315,John Coltrane,3.99,3938,144
+316,Fugazi,3.88,7949,156
+317,Arcade Fire,3.7,15621,582
+318,The Modern Lovers,3.93,5610,224
+319,Coil,3.93,5344,123
+320,Faust,3.92,6019,136
+321,Burzum,3.88,6613,243
+322,Burial,3.83,10975,350
+323,Cannonball Adderley,3.98,3628,130
+324,Jorge Ben,4.03,2290,77
+325,Van der Graaf Generator,3.94,4320,177
+326,The Magnetic Fields,3.88,6511,281
+327,Sly and The Family Stone,3.98,4097,149
+328,Vince Guaraldi,4.01,2933,144
+329,Mastodon,3.84,7769,335
+330,Iron Maiden,3.87,8654,367
+331,Spiritualized&#174;,3.83,9179,234
+332,Black Sabbath,3.88,7257,313
+333,Mos Def,3.93,5417,179
+334,Ulver,3.91,6387,160
+335,Artur Rubinstein,4.06,1124,28
+336,Sonny Rollins,3.98,3408,100
+337,Death,3.9,6192,236
+338,Captain Beefheart &amp; His Magic Band,3.74,10176,758
+339,Chef Raekwon,3.93,5202,228
+340,Bruce Springsteen,3.94,5671,205
+341,Have a Nice Life,3.85,8638,285
+342,Panda Bear,3.81,9301,369
+343,Yes,3.91,6698,264
+344,Violent Femmes,3.87,8624,303
+345,Kraftwerk,3.91,5892,161
+346,Elvis Costello,3.93,6772,257
+347,Wiener Philharmoniker,4.09,460,6
+348,Sonic Youth,3.87,8159,203
+349,Roxy Music,3.92,5620,205
+350,NEU!,3.85,7576,236
+351,Guided by Voices,3.88,6418,242
+352,Wipers,3.97,4235,124
+353,The Band,3.95,5381,252
+354,David Bowie,3.86,11021,371
+355,Animal Collective,3.75,11953,382
+356,Bob Marley,3.96,4585,157
+357,New York Philharmonic,4.02,1162,31
+358,Stan Getz &amp; Jo&#227;o Gilberto featuring Ant&#244;nio Carlos Jobim,3.96,4426,147
+359,Pere Ubu,3.88,6151,213
+360,Talking Heads,3.83,9721,244
+361,NEU!,3.94,4854,123
+362,Scott Engel,3.93,4632,152
+363,The John Coltrane Quartet,4.02,2446,52
+364,Chico Buarque,3.99,2583,75
+365,Gang Starr,3.99,3070,113
+366,Santana,3.94,4745,181
+367,Low,3.9,5520,136
+368,Death,3.92,5297,150
+369,Nico,3.9,4892,141
+370,Charles Mingus,4.01,2960,75
+371,Morbid Angel,3.91,4994,157
+372,Dead Can Dance,3.9,5121,145
+373,Emperor,3.9,5482,179
+374,Eno,3.92,5713,168
+375,Organized Konfusion,3.99,2535,97
+376,Red House Painters,3.93,4514,136
+377,Judas Priest,3.91,5055,250
+378,Bruce Springsteen,3.88,6640,270
+379,The Horace Silver Quintet,4.02,2074,54
+380,The Chameleons,3.92,4535,178
+381,PJ Harvey,3.89,6508,171
+382,Opeth,3.87,7033,252
+383,Neil Young,3.93,5405,187
+384,Creedence Clearwater Revival,3.95,4410,164
+385,Neurosis,3.92,4584,152
+386,Bob Dylan,3.91,6794,275
+387,Dissection,3.93,4476,142
+388,Mot&#246;rhead,3.9,6040,220
+389,Built to Spill,3.91,5840,140
+390,Dio,3.91,5483,257
+391,Broken Social Scene,3.85,7658,282
+392,Beck!,3.76,11409,389
+393,Mahavishnu Orchestra,3.93,4152,164
+394,The Mothers of Invention,3.85,7762,297
+395,Caravan,3.93,4256,203
+396,Sonic Youth,3.8,10244,233
+397,Mercyful Fate,3.93,3699,159
+398,The Smiths,3.78,11191,320
+399,Porcupine Tree,3.82,8103,323
+400,Sun Ra,3.98,2649,59
+401,Sigur R&#243;s,3.77,10396,290
+402,Iron Maiden,3.84,8255,312
+403,Mastodon,3.85,8072,219
+404,Isaac Hayes,3.96,3291,149
+405,The Microphones,3.91,4499,92
+406,Slayer,3.88,6651,232
+407,Suicide,3.85,7780,309
+408,Parliament,3.94,3701,123
+409,Megadeth,3.85,7922,372
+410,Miles Davis,3.94,4134,160
+411,Komeda Quintet,3.97,2244,51
+412,Miles Davis,3.92,5986,172
+413,Atheist,3.88,4883,160
+414,Refused,3.86,6543,245
+415,Aphex Twin,3.78,9366,188
+416,Jefferson Airplane,3.85,7237,263
+417,Glenn Gould,4.0,1463,45
+418,Mr. Bungle,3.86,5667,230
+419,Iron Maiden,3.86,7021,264
+420,Tom Waits,3.97,3341,141
+421,Emperor,3.9,4383,145
+422,Deltron 3030,3.87,5872,189
+423,The Who,3.81,8545,381
+424,Stevie Wonder,3.93,4356,155
+425,Peter Gabriel,3.92,4394,172
+426,John Williams,4.0,1157,20
+427,Mot&#246;rhead,3.93,4190,162
+428,Akira Yamaoka,3.98,2163,78
+429,My Bloody Valentine,3.76,11047,271
+430,Lou Reed,3.86,6135,239
+431,Gene Clark,3.97,2124,120
+432,Boris,3.87,5289,151
+433,Fleet Foxes,3.72,11206,450
+434,Creedence Clearwater Revival,3.93,4611,153
+435,Rush,3.89,5249,205
+436,Iggy Pop,3.85,6726,171
+437,Van der Graaf Generator,3.95,2767,100
+438,Aphex Twin,3.83,7005,219
+439,Judas Priest,3.9,5381,220
+440,Boredoms,3.85,5982,186
+441,Swans,3.86,6099,107
+442,Genesis,3.89,5777,217
+443,Kyuss,3.88,6175,175
+444,Joanna Newsom,3.84,5987,316
+445,Mercyful Fate,3.92,3528,127
+446,Fugazi,3.89,5402,137
+447,Amon D&#252;&#252;l II,3.89,5177,173
+448,The Fall,3.9,4876,151
+449,Columbia Symphony Orchestra,4.03,423,4
+450,Glenn Gould,3.97,1565,45
+451,Nick Cave and The Bad Seeds,3.9,5299,141
+452,Miles Davis,3.97,2202,101
+453,Bj&#246;rk,3.73,11641,290
+454,Brand New,3.79,8196,294
+455,The Beatles,3.76,13029,459
+456,Thelonious Monk,3.93,3310,86
+457,Caetano Veloso,3.96,2500,64
+458,Portishead,3.85,8647,170
+459,Opeth,3.83,7546,270
+460,John Fahey,3.96,2258,62
+461,Duke Ellington,3.99,1798,54
+462,Van der Graaf Generator,3.95,3049,106
+463,The Smiths,3.81,9041,237
+464,Run the Jewels,3.77,8428,168
+465,MF DOOM,3.87,6178,133
+466,A Tribe Called Quest,3.88,5363,100
+467,D\'Angelo,3.91,3845,114
+468,Glenn Branca,3.88,4927,138
+469,Thin Lizzy,3.92,3877,192
+470,Boris,3.86,5116,140
+471,Elvis Costello,3.85,6030,226
+472,John Williams,3.99,1378,35
+473,Aretha Franklin,3.96,2287,69
+474,Frank Ocean,3.8,8315,191
+475,PJ Harvey,3.8,7508,293
+476,Animal Collective,3.75,10573,308
+477,Townes Van Zandt,3.96,2463,63
+478,American Football,3.76,8793,221
+479,Tom Waits,3.85,6185,214
+480,Arcade Fire,3.66,13371,474
+481,New Order,3.83,8188,198
+482,Aretha Franklin,3.94,2918,109
+483,Jackson C. Frank,3.94,2858,76
+484,PiL,3.86,5519,215
+485,Sepultura,3.89,4385,139
+486,The National,3.76,8781,387
+487,The Beatles,3.76,12986,488
+488,Darkthrone,3.88,4765,146
+489,The Replacements,3.93,4764,178
+490,Deftones,3.79,7710,268
+491,Ja&#255;-Z,3.87,5173,251
+492,Brian Eno,3.76,8023,277
+493,Johnny Cash,4.01,718,20
+494,Stars of the Lid,3.86,4529,110
+495,Bob Marley,3.93,3607,135
+496,Ennio Morricone,4.03,892,19
+497,Sun Kil Moon,3.91,4034,110
+498,Queensr&#255;che,3.84,4836,263
+499,Steely Dan,3.89,5345,262
+500,Public Enemy,3.87,4883,183
+501,The Mothers of Invention,3.85,6144,268
+502,Candlemass,3.87,4084,126
+503,The Roots,3.89,4672,113
+504,Popol Vuh,3.87,4082,100
+505,Big L,3.91,3854,192
+506,The National,3.83,7150,210
+507,Godspeed You! Black Emperor,3.77,8706,222
+508,Iggy Pop,3.86,6462,197
+509,Frank Zappa,3.92,3454,120
+510,John Cale,3.88,4383,157
+511,Nick Cave &amp; The Bad Seeds,3.88,4729,109
+512,Paul McCartney,3.93,4343,255
+513,Bon Iver,3.73,10342,344
+514,"&#26893;&#26494;&#20280;&#22827; <span class=""subtext"">[Nobuo Uematsu]</span>",4.01,746,24
+515,Magnolia Electric Co.,3.92,2840,73
+516,Isis,3.86,5203,133
+517,AIR,3.74,10485,371
+518,Thelonious Monk Septet,3.97,1769,53
+519,The Dismemberment Plan,3.83,5780,160
+520,Mayhem,3.83,5503,226
+521,London Sinfonietta,3.92,1759,58
+522,Bonnie \'Prince\' Billy,3.85,5575,181
+523,The Pharcyde,3.9,3659,125
+524,Dr. Dre,3.81,6835,305
+525,Charles Mingus,3.97,2147,52
+526,Snoop Doggy Dogg,3.83,5559,236
+527,Pavement,3.85,6218,216
+528,Fairport Convention,3.92,3145,134
+529,AC/DC,3.66,11760,792
+530,Elliott Smith,3.88,6418,151
+531,Black Star,3.88,4280,158
+532,Talk Talk,3.84,5563,160
+533,Nina Simone,3.95,2266,50
+534,PJ Harvey,3.85,6692,191
+535,XTC,3.87,5546,237
+536,Flying Lotus,3.73,8851,195
+537,The Velvet Underground,3.8,10639,357
+538,Duke Ellington,3.93,2535,73
+539,Nine Inch Nails,3.84,7311,251
+540,The White Stripes,3.75,12601,442
+541,Cream,3.8,7710,336
+542,T. Rex,3.91,3442,156
+543,Cannibal Ox,3.85,4585,166
+544,U2,3.77,10865,548
+545,Steve Reich and Musicians,3.96,1304,40
+546,The Feelies,3.85,5048,143
+547,Edge of Sanity,3.88,3399,134
+548,Richard &amp; Linda Thompson,3.92,2454,108
+549,Tim Hecker,3.86,4452,99
+550,Berliner Philharmoniker,4.03,249,8
+551,D\'Angelo and The Vanguard,3.84,5028,115
+552,Marvin Gaye,3.91,3715,121
+553,Queens of the Stone Age,3.81,8809,235
+554,UGK,3.92,2338,85
+555,Howard Shore,3.97,1574,34
+556,Immortal,3.88,3487,107
+557,Os Mutantes,3.86,4573,172
+558,Lynyrd Skynyrd,3.88,4075,192
+559,Big Star,3.89,4179,196
+560,Rush,3.78,7630,299
+561,Herbie Hancock,3.94,2376,66
+562,"&#20809;&#30000;&#24247;&#20856; <span class=""subtext"">[Yasunori Mitsuda]</span>",4.0,852,32
+563,The Fall,3.88,4213,145
+564,Miles Davis,3.91,3679,91
+565,Black Sabbath,3.82,7059,276
+566,Ride,3.76,7735,202
+567,Ween,3.85,5439,173
+568,Tom Waits,3.89,4769,138
+569,"&#26893;&#26494;&#20280;&#22827; <span class=""subtext"">[Nobuo Uematsu]</span>",3.97,1166,65
+570,Guns n\' Roses,3.63,12202,795
+571,The Congos,3.94,2430,100
+572,Judas Priest,3.89,3956,184
+573,Wishbone Ash,3.89,3221,183
+574,Herbie Hancock,3.92,2858,66
+575,Rush,3.85,5196,203
+576,Prince,3.88,4445,167
+577,Devo,3.81,6663,263
+578,The Thelonious Monk Quartet,3.94,2324,55
+579,Belle and Sebastian,3.82,6584,173
+580,Fela Kuti,3.96,1634,40
+581,The Cure,3.82,7439,215
+582,Immolation,3.9,2393,77
+583,Wayne Shorter,3.91,2609,74
+584,The Ornette Coleman Double Quartet,3.91,2791,95
+585,Gorguts,3.88,3675,186
+586,Sex Pistols,3.66,11411,708
+587,Yo La Tengo,3.85,5491,157
+588,Exuma,3.87,3809,103
+589,Tak&#225;cs Quartet,4.01,496,15
+590,Opeth,3.85,5109,148
+591,Pierre Fournier,4.02,476,9
+592,Lee Morgan,3.95,2002,62
+593,Depeche Mode,3.84,5749,173
+594,Depeche Mode,3.84,5313,141
+595,Roy Harper,3.92,2171,94
+596,Coil,3.89,3033,65
+597,Johnny Cash,3.89,4392,166
+598,Darkthrone,3.83,4879,152
+599,Robbie Basho,3.94,1268,31
+600,Sepultura,3.87,4249,136
+601,Tim Buckley,3.85,4185,162
+602,Dismember,3.9,2548,96
+603,NoMeansNo,3.89,3501,116
+604,The Band,3.88,5293,228
+605,Judas Priest,3.88,3796,155
+606,Bathory,3.85,4275,128
+607,Van Morrison,3.93,2214,105
+608,Simon &amp; Garfunkel,3.87,4564,178
+609,English Baroque Soloists,3.97,521,17
+610,System of a Down,3.66,11583,520
+611,Kate Bush,3.83,5689,215
+612,Beach House,3.69,9938,337
+613,Cryptopsy,3.88,3713,187
+614,Blondie,3.84,6238,233
+615,David Bowie,3.82,8135,283
+616,John Coltrane,3.93,2265,66
+617,Avey Tare,3.77,6442,185
+618,Frank Zappa,3.85,4890,141
+619,Pete Rock &amp; C.L. Smooth,3.9,2535,90
+620,Big Black,3.84,5092,126
+621,Galaxie 500,3.78,6107,203
+622,The Sound,3.9,3046,79
+623,Yo La Tengo,3.88,4444,100
+624,Nick Cave &amp; The Bad Seeds,3.84,5196,144
+625,Autopsy,3.9,2545,77
+626,Massive Attack,3.78,8587,246
+627,Faust,3.8,5148,183
+628,Astor Piazzolla and The New Tango Quintet,3.95,1220,40
+629,De La Soul,3.8,5638,214
+630,The Cure,3.82,6594,202
+631,Coil,3.84,4011,94
+632,Rush,3.85,5024,190
+633,Bark Psychosis,3.81,4801,141
+634,Oliver Nelson,3.93,1756,59
+635,"&#20809;&#30000;&#24247;&#20856; <span class=""subtext"">[Yasunori Mitsuda]</span>",3.95,551,34
+636,Stars of the Lid,3.85,3641,115
+637,The Pretty Things,3.9,2911,144
+638,Jay-Z,3.81,5450,246
+639,Pink Floyd,3.69,10904,360
+640,Porcupine Tree,3.81,6306,238
+641,Joni Mitchell,3.88,3503,130
+642,Wiener Philharmoniker,4.01,394,9
+643,Sixteen Horsepower,3.89,2945,90
+644,Nick Cave and The Bad Seeds,3.89,4519,139
+645,Pete Rock &amp; C.L. Smooth,3.92,1588,61
+646,John Martyn,3.9,2512,115
+647,King Diamond,3.88,2898,128
+648,The Cure,3.83,7018,190
+649,Manic Street Preachers,3.82,4745,253
+650,Big Star,3.86,5030,191
+651,Stereolab,3.83,5269,155
+652,Neurosis,3.89,3044,73
+653,Helloween,3.85,3394,137
+654,Mogwai,3.75,7252,186
+655,OutKast,3.79,6838,189
+656,Tim Buckley,3.86,3871,135
+657,Clint Mansell,3.9,1952,71
+658,"Tyler, the Creator",3.77,7070,172
+659,Swans,3.8,5985,116
+660,Wiener Philharmoniker,3.95,680,19
+661,Herbie Hancock,3.91,2302,70
+662,The Rolling Stones,3.8,6341,259
+663,Bob Dylan,3.82,6210,233
+664,Supertramp,3.85,3750,163
+665,Guided by Voices,3.85,3966,139
+666,Swans,3.83,5389,60
+667,Bad Brains,3.83,5068,214
+668,"Crosby, Stills &amp; Nash",3.87,3525,147
+669,Paul McCartney,3.88,4506,232
+670,Van der Graaf Generator,3.9,2197,90
+671,Frank Ocean,3.71,9904,257
+672,The Mothers,3.88,3450,103
+673,A Tribe Called Quest,3.85,4699,119
+674,Viktor Vaughn,3.87,3582,78
+675,Reinbert de Leeuw,3.95,807,22
+676,Bob Dylan,3.8,6989,239
+677,The Gun Club,3.83,4203,129
+678,Paul Simon,3.83,5821,248
+679,The Pogues,3.87,3349,141
+680,Mike Oldfield,3.88,2842,99
+681,Autechre,3.79,5369,148
+682,"&#33464;&#33021;&#23665;&#22478;&#32068; <span class=""subtext"">[Geinoh Yamashirogumi]</span>",3.95,1054,36
+683,David Wise,3.94,598,25
+684,Gil Scott-Heron,3.9,2519,79
+685,Elton John,3.86,4547,247
+686,Neurosis,3.86,2897,61
+687,The Charlie Mingus Jazz Workshop,3.9,2809,75
+688,Coroner,3.89,2327,66
+689,Pascal Rog&#233;,3.94,1126,30
+690,Dead Kennedys,3.88,3921,109
+691,Philip Glass,3.87,2960,61
+692,Blind Guardian,3.85,3034,107
+693,Pierre Boulez,3.96,441,15
+694,Death,3.83,4842,145
+695,Cat Stevens,3.87,3888,163
+696,Tindersticks,3.85,2964,101
+697,H&#252;sker D&#252;,3.84,4616,146
+698,Fela Kuti,3.94,1118,21
+699,Collegium Vocale Gent,3.95,430,11
+700,The Allman Brothers Band,3.9,2949,133
+701,Eric B. &amp; Rakim,3.83,4474,205
+702,R.E.M.,3.84,4905,188
+703,R.E.M.,3.83,5447,195
+704,The Mothers,3.86,3785,136
+705,Wayne Shorter,3.92,1669,45
+706,The Knife,3.75,6922,177
+707,"&#30000;&#20013;&#23439;&#21644; <span class=""subtext"">[Hirokazu Tanaka]</span>",3.99,530,21
+708,Danny Brown,3.77,6516,129
+709,Grant Green,3.92,2000,54
+710,Wipers,3.89,2640,58
+711,Ghostface Killah,3.88,3163,127
+712,Jorge Ben,3.93,1617,61
+713,Van Halen,3.77,5946,358
+714,Ghostface Killah,3.85,3714,133
+715,Nick Cave and The Bad Seeds,3.81,5857,152
+716,Miles Davis Quintet,3.9,2657,81
+717,Steely Dan,3.88,3943,161
+718,Derek and The Dominos,3.82,4518,248
+719,Camel,3.87,3524,121
+720,Yes,3.83,5059,237
+721,Candlemass,3.86,2842,86
+722,Angelo Badalamenti,3.96,1376,20
+723,Miles Davis,3.9,2351,67
+724,Basil Poledouris,3.93,673,24
+725,This Heat,3.84,3538,104
+726,Peter Gabriel,3.86,4772,207
+727,Blue &#214;yster Cult,3.88,2779,143
+728,Sonny Sharrock,3.9,1481,55
+729,Sufjan Stevens,3.74,7457,241
+730,Sun Ra and His Arkestra,3.93,1290,18
+731,Al Green,3.9,2059,80
+732,Dusty Springfield,3.9,2832,131
+733,Invisible,3.93,923,35
+734,Grateful Dead,3.8,4959,254
+735,W.A.S.P.,3.88,1810,91
+736,Joni Mitchell,3.87,2643,122
+737,Rainbow,3.89,3011,114
+738,Andrew Hill,3.89,1964,57
+739,"&#20037;&#30707;&#35698; <span class=""subtext"">[Joe Hisaishi]</span>",3.97,704,11
+740,Meat Puppets,3.84,4126,149
+741,Tom Waits,3.85,4324,138
+742,Camel,3.87,3278,122
+743,BBC Symphony Orchestra,3.98,362,9
+744,Siouxsie and The Banshees,3.85,3904,108
+745,Gojira,3.81,4314,129
+746,AC/DC,3.7,8413,444
+747,Pixies,3.73,8788,260
+748,Ramones,3.84,3718,143
+749,Deerhunter,3.74,7907,206
+750,Gravediggaz,3.86,2961,110
+751,Diamond Head,3.9,1913,105
+752,Academy of St Martin in the Fields,3.97,427,9
+753,Various Artists,3.93,1336,50
+754,Baden Powell,3.93,890,20
+755,Magma,3.8,3718,159
+756,Van Morrison,3.91,2074,76
+757,The Pogues,3.88,2836,100
+758,Vektor,3.85,2653,144
+759,Ice Cube,3.87,2482,113
+760,The United States of America,3.83,3914,165
+761,Junior Wells\' Chicago Blues Band,3.91,1240,57
+762,The Seatbelts,3.92,1720,63
+763,Various Artists,3.94,1199,29
+764,Concertgebouworkest,3.91,739,20
+765,Nico,3.82,3657,103
+766,Philip Glass,3.87,2237,67
+767,U2,3.75,8311,416
+768,Jacques Brel,3.92,784,16
+769,Tame Impala,3.66,10142,258
+770,Parliament,3.91,1663,60
+771,Magazine,3.85,3727,111
+772,Soundgarden,3.79,6220,235
+773,Entombed,3.85,3169,83
+774,Oasis,3.68,12395,609
+775,Dream Theater,3.69,8109,411
+776,Big Star,3.87,3739,136
+777,"&#36817;&#34276;&#28009;&#27835; <span class=""subtext"">[Koji Kondo]</span>",3.95,532,11
+778,The Roots,3.86,2939,86
+779,Buena Vista Social Club,3.85,3960,107
+780,Freddie Gibbs,3.76,5988,143
+781,Mount Eerie,3.74,5969,218
+782,Nick Cave &amp; The Bad Seeds,3.84,4211,124
+783,Bolt Thrower,3.89,1948,69
+784,Carcass,3.85,3150,115
+785,"&#36817;&#34276;&#28009;&#27835; <span class=""subtext"">[Koji Kondo]</span>",3.93,868,38
+786,Albert Ayler Trio,3.83,3101,94
+787,Al Green,3.92,1537,61
+788,Art Blakey &amp; The Jazz Messengers,3.93,1051,35
+789,Gas,3.8,3662,97
+790,Roxy Music,3.81,4586,179
+791,Pescado Rabioso,3.89,1441,53
+792,Johnny Cash,3.89,2753,88
+793,Car Seat Headrest,3.86,2517,94
+794,Kendrick Lamar,3.61,11330,299
+795,The Doors,3.75,7881,254
+796,LaSalle Quartett,3.95,425,19
+797,Death Grips,3.79,5797,93
+798,Max Roach,3.88,1664,37
+799,Manuel G&#246;ttsching,3.85,2294,90
+800,Angelo Badalamenti,3.94,1023,22
